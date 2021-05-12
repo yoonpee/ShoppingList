@@ -1,3 +1,6 @@
-# React Shopping List![Shopping list]
-(https://user-images.githubusercontent.com/73012145/117973255-1dece580-b367-11eb-99d8-32ad55cef1e7.png)
+# React Shopping List.
 
+![Shopping list](https://user-images.githubusercontent.com/73012145/117973483-6b695280-b367-11eb-8bf7-077e7131a338.png)
+
+* Sending the input value to the compontent with useState and change the value of the list and onClick, onSubmit functionss
+* delete and checking it's done using deleteHandler, doneHandlers.
